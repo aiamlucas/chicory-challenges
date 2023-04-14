@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: cyan;
+}
+
+.card {
+  background-color: white;
+  border-radius: 16px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.card-heading {
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 0;
+}
+
+.card-username {
+  color: rgb(197, 193, 193);
+}
+
+.avatar {
+  border-radius: 10px;
+}
+
+.button-action {
+  border: none;
+  color: rgb(54, 189, 230);
+  background-color: unset;
+  margin-left: 0px;
+  padding: 0px;
+}
